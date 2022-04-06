@@ -35,7 +35,9 @@ Hiba szám:     18, arány: 8.78%
 
 # 2022 04 06
 model: XXXX_loss_0.1450_acc_0.9457_val_acc_0.9524_20220406215100.hdf5
+
 ipynb: HPLC_20220406215900.ipynb
+
 |num|model|orig|
 |---:|---:|---:|
 |31|[0.58100265]|0|
