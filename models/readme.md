@@ -1,6 +1,7 @@
 # 2022 04 10
 
 ipynb: HPLC_hiba5db_2_44PC_20220410_154700.ipynb
+
 model: XXXX_loss_0.0795_acc_0.9783_val_acc_0.9524_20220410133100.hdf5
 
 |num|model|orig|
