@@ -13,7 +13,7 @@ model: XXXX_loss_0.0795_acc_0.9783_val_acc_0.9524_20220410133100.hdf5
 |186|[0.00027591]|1|
 
 
-Hiba szám:      5, arány: 
+Hiba szám:      5, arány: 2.44%
 
  105. --> M8A048N
  128. --> M92107N
